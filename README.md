@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"Hi 👋 I'm Vitor Gomes! With a strong background in Design and experience as an Art Director, I'm now diving deep into Front-End Development. I’m passionate about creating clean, intuitive, and accessible digital experiences, blending design expertise with modern web technologies.</p>
+<p align="left">Hi 👋 I'm Vitor Gomes! With a strong background in Design and experience as an Art Director, I'm now diving deep into Front-End Development. I’m passionate about creating clean, intuitive, and accessible digital experiences, blending design expertise with modern web technologies.</p>
 
 ###
 
