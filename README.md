@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Full Stack Developer in Progress<br>📚 I'm currently learning Full Stack Development<br>🌍  I'm based in Curitiba, PR<br>✉️  You can contact me at [deadunlike@gmail.com]</p>
+<p align="left">✨ Full Stack Developer in Progress<br>📚 I'm currently learning Development<br>🌍  I'm based in Curitiba, PR<br>✉️  You can contact me at [deadunlike@gmail.com]</p>
 
 ###
 
